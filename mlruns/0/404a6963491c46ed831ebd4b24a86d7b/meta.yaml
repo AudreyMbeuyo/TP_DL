@@ -1,0 +1,14 @@
+artifact_uri: file:///home/audrey/TP1_DL/mlruns/0/404a6963491c46ed831ebd4b24a86d7b/artifacts
+end_time: 1758773141967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 404a6963491c46ed831ebd4b24a86d7b
+run_name: selective-crab-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758773117289
+status: 3
+tags: []
+user_id: audrey

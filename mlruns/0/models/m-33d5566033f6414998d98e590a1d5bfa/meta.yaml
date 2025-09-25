@@ -1,0 +1,10 @@
+artifact_location: file:///home/audrey/TP1_DL/mlruns/0/models/m-33d5566033f6414998d98e590a1d5bfa/artifacts
+creation_timestamp: 1758773136688
+experiment_id: '0'
+last_updated_timestamp: 1758773141963
+model_id: m-33d5566033f6414998d98e590a1d5bfa
+model_type: null
+name: mnist-model
+source_run_id: 404a6963491c46ed831ebd4b24a86d7b
+status: 2
+status_message: null
